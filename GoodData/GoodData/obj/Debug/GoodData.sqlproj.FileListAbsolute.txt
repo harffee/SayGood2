@@ -1,0 +1,9 @@
+D:\Repo\GoodData\GoodData\bin\Debug\GoodData.dacpac
+D:\Repo\GoodData\GoodData\bin\Debug\GoodData.dll
+D:\Repo\GoodData\GoodData\bin\Debug\GoodData.pdb
+D:\Repo\GoodData\GoodData\obj\Debug\Model.xml
+D:\Repo\GoodData\GoodData\obj\Debug\refactor.xml
+D:\Repo\GoodData\GoodData\obj\Debug\postdeploy.sql
+D:\Repo\GoodData\GoodData\obj\Debug\predeploy.sql
+D:\Repo\GoodData\GoodData\obj\Debug\GoodData.dll
+D:\Repo\GoodData\GoodData\obj\Debug\GoodData.pdb

@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Detail]
+(
+	[UpdateId] INT NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(50) NOT NULL, 
+    [UpDate] DATETIME2 NOT NULL, 
+    [Desc] NVARCHAR(MAX) NOT NULL, 
+    [ToWho] NVARCHAR(50) NOT NULL
+)
